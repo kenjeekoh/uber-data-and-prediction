@@ -5,7 +5,11 @@ Based on our analysis and comparing the results of the two models' predicted pri
 
 Project prepared by: Kenjee Koh, Jake Hudelson, Huy Bui, Anna Glushchenko, Lynn Hong, Sandy Huang, Thi Ngoc Tram Nguyen, Shuang Wu
 
-Our full project report can be accessed here: [https://docs.google.com/document/d/1kR6W0bnoihzAJldTZK5uixUs1zelpSaigGkC1lXORH4/edit?usp=sharing](url)
+Our full project folder can be accessed here: [https://drive.google.com/drive/folders/1XCLSHCHxuDXsAO1YVmdGgvs5etRBhYqu?usp=drive_link](url)
+
+Our full project report can be accessed here: [https://docs.google.com/document/d/1kR6W0bnoihzAJldTZK5uixUs1zelpSaigGkC1lXORH4/edit#heading=h.aczyuw2yex2w](url)
+
+Our full project presentation can be accessed here: [https://docs.google.com/presentation/d/1tczk39Ux3TZF0FRTHpREX48L-TbyoZIO2pcMBnQe4Uw/edit#slide=id.p1](url)
 
 ____________________________________________________________________________________
 ## INTRODUCTION
